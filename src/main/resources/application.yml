@@ -11,8 +11,8 @@ spring:
   datasource:
     driver-class-name: com.mysql.cj.jdbc.Driver
     url: jdbc:mysql://localhost:3306/security?serverTimezone=Asia/Seoul
-    username: chani
-    password:  1cha_ni77!!
+    username: 
+    password: 
    
 #  mvc: 
 #    view:
